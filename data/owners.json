@@ -1,0 +1,62 @@
+[
+  {
+    "id": "o-elm-holdings",
+    "name": "Gregory Hale",
+    "company": "Elm Court Holdings LLC",
+    "email": "greg.hale@example.com",
+    "phone": "(919) 555-8101",
+    "street": "44 Market Square",
+    "city": "Fernwood Springs",
+    "region": "NC",
+    "zip": "27991",
+    "fee": null,
+    "payTo": "Bank transfer to the LLC operating account",
+    "note": "",
+    "active": true
+  },
+  {
+    "id": "o-riverside",
+    "name": "Andrea Wolfe",
+    "company": "Riverside Lofts Partners",
+    "email": "andrea.wolfe@example.com",
+    "phone": "(919) 555-8122",
+    "street": "900 Commerce Way, Floor 3",
+    "city": "Raleigh",
+    "region": "NC",
+    "zip": "27601",
+    "fee": 7.0,
+    "payTo": "Bank transfer",
+    "note": "Fee is 7% under the 2025 agreement.",
+    "active": true
+  },
+  {
+    "id": "o-cho",
+    "name": "Daniel and Ellen Cho",
+    "company": "",
+    "email": "cho.family@example.com",
+    "phone": "(919) 555-8147",
+    "street": "12 Hawthorn Court",
+    "city": "Fernwood Springs",
+    "region": "NC",
+    "zip": "27991",
+    "fee": null,
+    "payTo": "Check mailed to the home address",
+    "note": "Prefer a call before any repair over $500.",
+    "active": true
+  },
+  {
+    "id": "o-brandt",
+    "name": "Harold Brandt",
+    "company": "",
+    "email": "harold.brandt@example.com",
+    "phone": "(919) 555-8163",
+    "street": "318 Linden Avenue",
+    "city": "Fernwood Springs",
+    "region": "NC",
+    "zip": "27991",
+    "fee": null,
+    "payTo": "Bank transfer",
+    "note": "Bought half of Birch Hill Homes from the Chos on September 15, 2026.",
+    "active": true
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "w-elm-hale",
+    "propertyId": "p-elm",
+    "ownerId": "o-elm-holdings",
+    "share": 100,
+    "from": "2024-03-01T00:00:00",
+    "until": "2026-10-26T00:00:00",
+    "reason": "Management agreement",
+    "by": "u-accounts",
+    "created": "2024-03-01T09:00:00"
+  },
+  {
+    "id": "w-river-wolfe",
+    "propertyId": "p-river",
+    "ownerId": "o-riverside",
+    "share": 100,
+    "from": "2024-06-01T00:00:00",
+    "until": null,
+    "reason": "Management agreement",
+    "by": "u-accounts",
+    "created": "2024-06-01T09:00:00"
+  },
+  {
+    "id": "w-cedar-cho",
+    "propertyId": "p-cedar",
+    "ownerId": "o-cho",
+    "share": 100,
+    "from": "2024-01-15T00:00:00",
+    "until": null,
+    "reason": "Management agreement",
+    "by": "u-accounts",
+    "created": "2024-01-15T09:00:00"
+  },
+  {
+    "id": "w-birch-cho-1",
+    "propertyId": "p-birch",
+    "ownerId": "o-cho",
+    "share": 100,
+    "from": "2024-01-15T00:00:00",
+    "until": "2026-09-14T00:00:00",
+    "reason": "Management agreement",
+    "by": "u-accounts",
+    "created": "2024-01-15T09:00:00"
+  },
+  {
+    "id": "w-birch-cho-2",
+    "propertyId": "p-birch",
+    "ownerId": "o-cho",
+    "share": 50,
+    "from": "2026-09-15T00:00:00",
+    "until": null,
+    "reason": "Sold half to Harold Brandt",
+    "by": "u-accounts",
+    "created": "2026-09-15T10:00:00"
+  },
+  {
+    "id": "w-birch-brandt",
+    "propertyId": "p-birch",
+    "ownerId": "o-brandt",
+    "share": 50,
+    "from": "2026-09-15T00:00:00",
+    "until": null,
+    "reason": "Bought half from the Chos",
+    "by": "u-accounts",
+    "created": "2026-09-15T10:00:00"
+  },
+  {
+    "id": "w-07a1c02ab7",
+    "propertyId": "p-elm",
+    "ownerId": "o-elm-holdings",
+    "share": 100,
+    "from": "2026-10-27T00:00:00",
+    "until": null,
+    "reason": "",
+    "by": "u-owner",
+    "created": "2026-10-27T14:20:34.3530937-04:00"
+  }
+]

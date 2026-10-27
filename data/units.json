@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "u-cu6m3z9b",
+    "propertyId": "p-elm",
+    "number": "1A",
+    "beds": 2,
+    "baths": 1.5,
+    "sqft": 880,
+    "floor": 1,
+    "rent": 1450,
+    "deposit": 1450,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Hardwood floors",
+      "Renovated kitchen",
+      "Ceiling fans",
+      "Corner unit"
+    ],
+    "photos": [
+      "images/units/living-2.webp",
+      "images/units/kitchen-1.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-2.webp"
+    ],
+    "plan": "images/units/plan-2bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-5m6n5e7a",
+    "propertyId": "p-elm",
+    "number": "1B",
+    "beds": 1,
+    "baths": 1,
+    "sqft": 640,
+    "floor": 1,
+    "rent": 1150,
+    "deposit": 1150,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Hardwood floors",
+      "Renovated kitchen",
+      "Ceiling fans"
+    ],
+    "photos": [
+      "images/units/living-2.webp",
+      "images/units/kitchen-1.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-2.webp"
+    ],
+    "plan": "images/units/plan-1bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-32sdc42y",
+    "propertyId": "p-elm",
+    "number": "1C",
+    "beds": 1,
+    "baths": 1,
+    "sqft": 640,
+    "floor": 1,
+    "rent": 1150,
+    "deposit": 1150,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Hardwood floors",
+      "Renovated kitchen",
+      "Ceiling fans"
+    ],
+    "photos": [
+      "images/units/living-2.webp",
+      "images/units/kitchen-1.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-2.webp"
+    ],
+    "plan": "images/units/plan-1bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-tkje7he5",
+    "propertyId": "p-elm",
+    "number": "1D",
+    "beds": 2,
+    "baths": 1.5,
+    "sqft": 880,
+    "floor": 1,
+    "rent": 1450,
+    "deposit": 1450,
+    "status": "Make-ready",
+    "available": "2026-10-23T00:00:00",
+    "petsOk": true,
+    "features": [
+      "Hardwood floors",
+      "Renovated kitchen",
+      "Ceiling fans",
+      "Corner unit"
+    ],
+    "photos": [
+      "images/units/living-2.webp",
+      "images/units/kitchen-1.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-2.webp"
+    ],
+    "plan": "images/units/plan-2bd.webp",
+    "listed": true,
+    "note": "Paint and carpet clean after move-out.",
+    "statusSince": "2026-10-17T00:00:00"
+  },
+  {
+    "id": "u-8jvhbpny",
+    "propertyId": "p-elm",
+    "number": "2A",
+    "beds": 2,
+    "baths": 1.5,
+    "sqft": 880,
+    "floor": 2,
+    "rent": 1475,
+    "deposit": 1475,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Hardwood floors",
+      "Renovated kitchen",
+      "Ceiling fans",
+      "Corner unit"
+    ],
+    "photos": [
+      "images/units/living-2.webp",
+      "images/units/kitchen-1.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-2.webp"
+    ],
+    "plan": "images/units/plan-2bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-vtu59uxb",
+    "propertyId": "p-elm",
+    "number": "2B",
+    "beds": 1,
+    "baths": 1,
+    "sqft": 640,
+    "floor": 2,
+    "rent": 1175,
+    "deposit": 1175,
+    "status": "Vacant",
+    "available": "2026-10-30T00:00:00",
+    "petsOk": true,
+    "features": [
+      "Hardwood floors",
+      "Renovated kitchen",
+      "Ceiling fans"
+    ],
+    "photos": [
+      "images/units/living-2.webp",
+      "images/units/kitchen-1.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-2.webp"
+    ],
+    "plan": "images/units/plan-1bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-10-18T00:00:00"
+  },
+  {
+    "id": "u-qjeihvsh",
+    "propertyId": "p-elm",
+    "number": "2C",
+    "beds": 1,
+    "baths": 1,
+    "sqft": 640,
+    "floor": 2,
+    "rent": 1175,
+    "deposit": 1175,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Hardwood floors",
+      "Renovated kitchen",
+      "Ceiling fans"
+    ],
+    "photos": [
+      "images/units/living-2.webp",
+      "images/units/kitchen-1.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-2.webp"
+    ],
+    "plan": "images/units/plan-1bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-ffc8cst4",
+    "propertyId": "p-elm",
+    "number": "2D",
+    "beds": 2,
+    "baths": 1.5,
+    "sqft": 880,
+    "floor": 2,
+    "rent": 1475,
+    "deposit": 1475,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Hardwood floors",
+      "Renovated kitchen",
+      "Ceiling fans",
+      "Corner unit"
+    ],
+    "photos": [
+      "images/units/living-2.webp",
+      "images/units/kitchen-1.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-2.webp"
+    ],
+    "plan": "images/units/plan-2bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-aneimp9d",
+    "propertyId": "p-elm",
+    "number": "3A",
+    "beds": 2,
+    "baths": 1.5,
+    "sqft": 880,
+    "floor": 3,
+    "rent": 1500,
+    "deposit": 1500,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Hardwood floors",
+      "Renovated kitchen",
+      "Ceiling fans",
+      "Corner unit"
+    ],
+    "photos": [
+      "images/units/living-2.webp",
+      "images/units/kitchen-1.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-2.webp"
+    ],
+    "plan": "images/units/plan-2bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-jsa2c4cb",
+    "propertyId": "p-elm",
+    "number": "3B",
+    "beds": 1,
+    "baths": 1,
+    "sqft": 640,
+    "floor": 3,
+    "rent": 1200,
+    "deposit": 1200,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Hardwood floors",
+      "Renovated kitchen",
+      "Ceiling fans"
+    ],
+    "photos": [
+      "images/units/living-2.webp",
+      "images/units/kitchen-1.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-2.webp"
+    ],
+    "plan": "images/units/plan-1bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-ijay4a9f",
+    "propertyId": "p-elm",
+    "number": "3C",
+    "beds": 1,
+    "baths": 1,
+    "sqft": 640,
+    "floor": 3,
+    "rent": 1200,
+    "deposit": 1200,
+    "status": "Notice",
+    "available": "2026-11-10T00:00:00",
+    "petsOk": true,
+    "features": [
+      "Hardwood floors",
+      "Renovated kitchen",
+      "Ceiling fans"
+    ],
+    "photos": [
+      "images/units/living-2.webp",
+      "images/units/kitchen-1.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-2.webp"
+    ],
+    "plan": "images/units/plan-1bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-7wuckpvh",
+    "propertyId": "p-elm",
+    "number": "3D",
+    "beds": 2,
+    "baths": 1.5,
+    "sqft": 880,
+    "floor": 3,
+    "rent": 1500,
+    "deposit": 1500,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Hardwood floors",
+      "Renovated kitchen",
+      "Ceiling fans",
+      "Corner unit"
+    ],
+    "photos": [
+      "images/units/living-2.webp",
+      "images/units/kitchen-1.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-2.webp"
+    ],
+    "plan": "images/units/plan-2bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-jkih5nkp",
+    "propertyId": "p-river",
+    "number": "101",
+    "beds": 0,
+    "baths": 1,
+    "sqft": 480,
+    "floor": 1,
+    "rent": 1295,
+    "deposit": 1295,
+    "status": "Offline",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-studio.webp",
+    "listed": false,
+    "note": "Water damage repair in the bathroom.",
+    "statusSince": "2026-10-20T00:00:00"
+  },
+  {
+    "id": "u-etgih5ye",
+    "propertyId": "p-river",
+    "number": "102",
+    "beds": 1,
+    "baths": 1,
+    "sqft": 720,
+    "floor": 1,
+    "rent": 1575,
+    "deposit": 1575,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-1bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-p2xgrjz5",
+    "propertyId": "p-river",
+    "number": "103",
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1040,
+    "floor": 1,
+    "rent": 2050,
+    "deposit": 2050,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters",
+      "River view"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-2bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-7pkrxcgi",
+    "propertyId": "p-river",
+    "number": "201",
+    "beds": 0,
+    "baths": 1,
+    "sqft": 480,
+    "floor": 2,
+    "rent": 1330,
+    "deposit": 1330,
+    "status": "Vacant",
+    "available": "2026-10-30T00:00:00",
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp",
+      "images/properties/riverside-lofts-tour.mp4"
+    ],
+    "plan": "images/units/plan-studio.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-09-30T00:00:00"
+  },
+  {
+    "id": "u-jezcc6dk",
+    "propertyId": "p-river",
+    "number": "202",
+    "beds": 1,
+    "baths": 1,
+    "sqft": 720,
+    "floor": 2,
+    "rent": 1610,
+    "deposit": 1610,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-1bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-syp7xvf5",
+    "propertyId": "p-river",
+    "number": "203",
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1040,
+    "floor": 2,
+    "rent": 2085,
+    "deposit": 2085,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters",
+      "River view"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-2bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-8g322bme",
+    "propertyId": "p-river",
+    "number": "301",
+    "beds": 0,
+    "baths": 1,
+    "sqft": 480,
+    "floor": 3,
+    "rent": 1365,
+    "deposit": 1365,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-studio.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-bcxjgx3j",
+    "propertyId": "p-river",
+    "number": "302",
+    "beds": 1,
+    "baths": 1,
+    "sqft": 720,
+    "floor": 3,
+    "rent": 1645,
+    "deposit": 1645,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-1bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-4vit3mt3",
+    "propertyId": "p-river",
+    "number": "303",
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1040,
+    "floor": 3,
+    "rent": 2120,
+    "deposit": 2120,
+    "status": "Vacant",
+    "available": "2026-10-31T00:00:00",
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters",
+      "River view"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-2bd.webp",
+    "listed": false,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-xjaxvf98",
+    "propertyId": "p-river",
+    "number": "401",
+    "beds": 0,
+    "baths": 1,
+    "sqft": 480,
+    "floor": 4,
+    "rent": 1400,
+    "deposit": 1400,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters",
+      "River view"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-studio.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-yd4ftmhb",
+    "propertyId": "p-river",
+    "number": "402",
+    "beds": 1,
+    "baths": 1,
+    "sqft": 720,
+    "floor": 4,
+    "rent": 1680,
+    "deposit": 1680,
+    "status": "Vacant",
+    "available": "2026-11-06T00:00:00",
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters",
+      "River view"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp",
+      "images/properties/riverside-lofts-tour.mp4"
+    ],
+    "plan": "images/units/plan-1bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-10-02T00:00:00"
+  },
+  {
+    "id": "u-qz5rfssn",
+    "propertyId": "p-river",
+    "number": "403",
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1040,
+    "floor": 4,
+    "rent": 2155,
+    "deposit": 2155,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters",
+      "River view"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-2bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-pmj9w4xz",
+    "propertyId": "p-river",
+    "number": "501",
+    "beds": 0,
+    "baths": 1,
+    "sqft": 480,
+    "floor": 5,
+    "rent": 1435,
+    "deposit": 1435,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters",
+      "River view"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-studio.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-q5d2whed",
+    "propertyId": "p-river",
+    "number": "502",
+    "beds": 1,
+    "baths": 1,
+    "sqft": 720,
+    "floor": 5,
+    "rent": 1715,
+    "deposit": 1715,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters",
+      "River view"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-1bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-ihmh5uiy",
+    "propertyId": "p-river",
+    "number": "503",
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1040,
+    "floor": 5,
+    "rent": 2190,
+    "deposit": 2190,
+    "status": "Notice",
+    "available": "2026-11-06T00:00:00",
+    "petsOk": true,
+    "features": [
+      "Balcony",
+      "In-unit washer and dryer",
+      "Floor-to-ceiling windows",
+      "Quartz counters",
+      "River view"
+    ],
+    "photos": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-2bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-kgzxu7p3",
+    "propertyId": "p-cedar",
+    "number": "CR-1",
+    "beds": 3,
+    "baths": 2.5,
+    "sqft": 1480,
+    "floor": 1,
+    "rent": 2245,
+    "deposit": 2245,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Attached garage",
+      "Private patio",
+      "Two-storey",
+      "Primary suite"
+    ],
+    "photos": [
+      "images/units/living-3.webp",
+      "images/units/kitchen-2.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-3bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-uckc73ci",
+    "propertyId": "p-cedar",
+    "number": "CR-2",
+    "beds": 3,
+    "baths": 2.5,
+    "sqft": 1480,
+    "floor": 1,
+    "rent": 2195,
+    "deposit": 2195,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Attached garage",
+      "Private patio",
+      "Two-storey",
+      "Primary suite"
+    ],
+    "photos": [
+      "images/units/living-3.webp",
+      "images/units/kitchen-2.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-3bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-8az6qjnc",
+    "propertyId": "p-cedar",
+    "number": "CR-3",
+    "beds": 3,
+    "baths": 2.5,
+    "sqft": 1480,
+    "floor": 1,
+    "rent": 2245,
+    "deposit": 2245,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Attached garage",
+      "Private patio",
+      "Two-storey",
+      "Primary suite"
+    ],
+    "photos": [
+      "images/units/living-3.webp",
+      "images/units/kitchen-2.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-3bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-tnhv9ats",
+    "propertyId": "p-cedar",
+    "number": "CR-4",
+    "beds": 3,
+    "baths": 2.5,
+    "sqft": 1480,
+    "floor": 1,
+    "rent": 2195,
+    "deposit": 2195,
+    "status": "Vacant",
+    "available": "2026-10-23T00:00:00",
+    "petsOk": true,
+    "features": [
+      "Attached garage",
+      "Private patio",
+      "Two-storey",
+      "Primary suite"
+    ],
+    "photos": [
+      "images/units/living-3.webp",
+      "images/units/kitchen-2.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-3bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-09-28T00:00:00"
+  },
+  {
+    "id": "u-98m54nhp",
+    "propertyId": "p-cedar",
+    "number": "CR-5",
+    "beds": 3,
+    "baths": 2.5,
+    "sqft": 1480,
+    "floor": 1,
+    "rent": 2245,
+    "deposit": 2245,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Attached garage",
+      "Private patio",
+      "Two-storey",
+      "Primary suite"
+    ],
+    "photos": [
+      "images/units/living-3.webp",
+      "images/units/kitchen-2.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-3bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-2a4htmtq",
+    "propertyId": "p-birch",
+    "number": "12 Birch Lane",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1750,
+    "floor": 1,
+    "rent": 2450,
+    "deposit": 2450,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": false,
+    "features": [
+      "Fenced yard",
+      "Garage",
+      "Fireplace",
+      "Garden"
+    ],
+    "photos": [
+      "images/units/living-3.webp",
+      "images/units/kitchen-2.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-3bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-praun4fm",
+    "propertyId": "p-birch",
+    "number": "16 Birch Lane",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2300,
+    "floor": 1,
+    "rent": 2950,
+    "deposit": 2950,
+    "status": "Occupied",
+    "available": null,
+    "petsOk": true,
+    "features": [
+      "Fenced yard",
+      "Garage",
+      "Fireplace",
+      "Garden"
+    ],
+    "photos": [
+      "images/units/living-3.webp",
+      "images/units/kitchen-2.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-3bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  },
+  {
+    "id": "u-4nncpeba",
+    "propertyId": "p-birch",
+    "number": "21 Birch Lane",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1750,
+    "floor": 1,
+    "rent": 2450,
+    "deposit": 2450,
+    "status": "Vacant",
+    "available": "2026-11-06T00:00:00",
+    "petsOk": false,
+    "features": [
+      "Fenced yard",
+      "Garage",
+      "Fireplace",
+      "Garden"
+    ],
+    "photos": [
+      "images/units/living-3.webp",
+      "images/units/kitchen-2.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-3bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-09-30T00:00:00"
+  },
+  {
+    "id": "u-mzcb4w8f",
+    "propertyId": "p-birch",
+    "number": "27 Birch Lane",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2300,
+    "floor": 1,
+    "rent": 2950,
+    "deposit": 2950,
+    "status": "Notice",
+    "available": "2026-11-12T00:00:00",
+    "petsOk": true,
+    "features": [
+      "Fenced yard",
+      "Garage",
+      "Fireplace",
+      "Garden"
+    ],
+    "photos": [
+      "images/units/living-3.webp",
+      "images/units/kitchen-2.webp",
+      "images/units/bedroom-1.webp",
+      "images/units/bath-1.webp"
+    ],
+    "plan": "images/units/plan-3bd.webp",
+    "listed": true,
+    "note": "",
+    "statusSince": "2026-07-25T00:00:00"
+  }
+]

@@ -1,0 +1,794 @@
+{
+  "brand": "Maple Residential",
+  "legal": "Maple Residential Property Management",
+  "tagline": "Apartments, townhomes and family houses in Fernwood Springs, managed by people who answer the phone.",
+  "phone": "(919) 555-0100",
+  "email": "hello@mapleresidential.example",
+  "street": "310 Main Street, Suite 2",
+  "city": "Fernwood Springs",
+  "region": "NC",
+  "zip": "27991",
+  "hours": "Mon to Fri: 9 am to 6 pm\nSat: 10 am to 2 pm\nEmergencies: every day, all hours",
+  "notifyEmail": "",
+  "applicationFee": 45,
+  "incomeTimes": 3,
+  "rentDueDay": 1,
+  "graceDays": 5,
+  "lateFee": 75,
+  "managementFee": 8,
+  "maxVideoMb": 30,
+  "pages": {
+    "home": {
+      "blocks": [
+        {
+          "id": "ba8h3jcihq",
+          "type": "hero",
+          "source": "",
+          "hidden": false,
+          "kicker": "Apartments, townhomes and houses in Fernwood Springs",
+          "title": "A home that is looked after.",
+          "text": "<p>Find a place to rent, apply online in minutes and manage everything from the resident portal. Repairs answered fast, rent paid your way.</p>",
+          "media": "images/site/hero-autumn.webp",
+          "label": "See available units",
+          "link": "Units",
+          "label2": "Our properties",
+          "link2": "Properties",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "images/site/hero-dusk.webp",
+              "title": "Riverside at dusk",
+              "text": "",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "images/site/hero-street.webp",
+              "title": "Elm Court",
+              "text": "",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "bijcdiq64p",
+          "type": "data",
+          "source": "search",
+          "hidden": false,
+          "kicker": "",
+          "title": "Find your next home",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bfhb3xnpx3",
+          "type": "data",
+          "source": "units",
+          "hidden": false,
+          "kicker": "Ready to rent",
+          "title": "Available now and soon",
+          "text": "<p>Every listing shows the real rent, the deposit and the move-in date. Book a tour or apply straight from the unit.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bzrpp4ddmy",
+          "type": "steps",
+          "source": "",
+          "hidden": false,
+          "kicker": "Renting with us",
+          "title": "From tour to keys in four steps",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "",
+              "title": "Tour",
+              "text": "Pick a time online. A leasing agent meets you at the door, or we send a video tour.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Apply",
+              "text": "One online form for everyone on the lease. You get a reference code at once.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Sign",
+              "text": "We answer within two working days. Once approved, we prepare the lease and set your move-in date.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Move in",
+              "text": "Collect your keys, activate the resident portal and you are home.",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "bipj2bf6pp",
+          "type": "data",
+          "source": "properties",
+          "hidden": false,
+          "kicker": "Our properties",
+          "title": "Four places to call home",
+          "text": "<p>From river-view lofts to family houses with a yard, all in Fernwood Springs.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "b5znxq8csx",
+          "type": "cards",
+          "source": "",
+          "hidden": false,
+          "kicker": "Why {name}",
+          "title": "Renting, done properly",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "wrench",
+              "media": "",
+              "title": "Repairs that get done",
+              "text": "Send a request with photos from the portal. Emergencies are answered day and night.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "card",
+              "media": "",
+              "title": "Pay your way",
+              "text": "Pay rent online by card, by bank transfer or by check at the office.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "doc",
+              "media": "",
+              "title": "Clear leases",
+              "text": "Plain-language leases, the deposit held safely and an itemized statement when you move out.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "paw",
+              "media": "",
+              "title": "Pet friendly",
+              "text": "Most homes welcome cats and dogs. Each listing says what is allowed.",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "bux38wpgvm",
+          "type": "faq",
+          "source": "",
+          "hidden": false,
+          "kicker": "Questions",
+          "title": "Before you apply",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "",
+              "title": "What do I need to apply?",
+              "text": "A photo ID, recent pay slips or an offer letter, and the contact of your current landlord. Everyone over 18 who will live in the home fills in the application.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "How much income do I need?",
+              "text": "We look for a household income of about three times the monthly rent. Guarantors are welcome.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Is there an application fee?",
+              "text": "Yes, $45 per adult applicant, paid when we start the review. It covers the credit and background check.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "How long is the lease?",
+              "text": "Most leases are 12 months. Shorter terms are sometimes possible; ask on the unit page.",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "bufmnbzg3u",
+          "type": "cta",
+          "source": "",
+          "hidden": false,
+          "kicker": "Own a rental?",
+          "title": "Let us manage it for you",
+          "text": "<p>Tenant finding, rent collection, repairs and monthly statements for owners in Fernwood Springs.</p>",
+          "media": "",
+          "label": "Services for owners",
+          "link": "Owners",
+          "label2": "Contact us",
+          "link2": "Contact",
+          "flip": false,
+          "items": []
+        }
+      ],
+      "versions": [],
+      "saved": "2026-10-22T13:20:00Z",
+      "by": "u-editor"
+    },
+    "properties": {
+      "blocks": [
+        {
+          "id": "bvnh7nx63d",
+          "type": "text",
+          "source": "",
+          "hidden": false,
+          "kicker": "Properties",
+          "title": "Where you could live",
+          "text": "<p>Each property is managed by our own team, with a leasing agent who knows every unit.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bhtghnnxkj",
+          "type": "data",
+          "source": "propertylist",
+          "hidden": false,
+          "kicker": "",
+          "title": "All properties",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        }
+      ],
+      "versions": [],
+      "saved": "2026-10-22T13:20:00Z",
+      "by": "u-editor"
+    },
+    "units": {
+      "blocks": [
+        {
+          "id": "b8d9tz9ch9",
+          "type": "text",
+          "source": "",
+          "hidden": false,
+          "kicker": "Available units",
+          "title": "Find a place that fits",
+          "text": "<p>Filter by bedrooms, rent, move-in date and pets. Rents are per month; utilities vary by property and are listed on each unit.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bi9bs98yra",
+          "type": "data",
+          "source": "unitlist",
+          "hidden": false,
+          "kicker": "",
+          "title": "Units to rent",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bg2u6mcihd",
+          "type": "cta",
+          "source": "",
+          "hidden": false,
+          "kicker": "",
+          "title": "Do not see the right one?",
+          "text": "<p>Tell us what you are looking for and we will let you know when it comes up.</p>",
+          "media": "",
+          "label": "Contact us",
+          "link": "Contact",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        }
+      ],
+      "versions": [],
+      "saved": "2026-10-22T13:20:00Z",
+      "by": "u-editor"
+    },
+    "owners": {
+      "blocks": [
+        {
+          "id": "bpnvm73qn7",
+          "type": "hero",
+          "source": "",
+          "hidden": false,
+          "kicker": "For property owners",
+          "title": "Your property, in good hands.",
+          "text": "<p>We find and screen tenants, collect the rent, handle repairs and send you a clear statement every month.</p>",
+          "media": "images/properties/cedar-row.webp",
+          "label": "Ask about management",
+          "link": "Owners#owner",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bv7wizhynu",
+          "type": "cards",
+          "source": "",
+          "hidden": false,
+          "kicker": "What we do",
+          "title": "Full-service management",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "key",
+              "media": "",
+              "title": "Tenant finding",
+              "text": "Photos, listings, tours and careful screening of income, history and references.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "card",
+              "media": "",
+              "title": "Rent collection",
+              "text": "Online payments, reminders and late fees handled for you.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "wrench",
+              "media": "",
+              "title": "Maintenance",
+              "text": "Trusted local vendors, routine inspections and fast answers to repair requests.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "chart",
+              "media": "",
+              "title": "Owner statements",
+              "text": "Income, expenses and the management fee, every month.",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "b2kch5pjr2",
+          "type": "stats",
+          "source": "",
+          "hidden": false,
+          "kicker": "",
+          "title": "{name} in numbers",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "",
+              "title": "36",
+              "text": "homes managed",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "96%",
+              "text": "average occupancy",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "2 days",
+              "text": "to answer an application",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "8%",
+              "text": "management fee",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "bvp5vrtcc8",
+          "type": "data",
+          "source": "ownerform",
+          "hidden": false,
+          "kicker": "Get in touch",
+          "title": "Ask about management",
+          "text": "<p>Tell us about your property and we will call you back within one working day.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        }
+      ],
+      "versions": [],
+      "saved": "2026-10-22T13:20:00Z",
+      "by": "u-editor"
+    },
+    "residents": {
+      "blocks": [
+        {
+          "id": "btsn5zp3c6",
+          "type": "text",
+          "source": "",
+          "hidden": false,
+          "kicker": "Residents",
+          "title": "Everything for current residents",
+          "text": "<p>Your lease, balance, repair requests and notices from management are in the resident portal.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "b2nrpwyvzh",
+          "type": "data",
+          "source": "portal",
+          "hidden": false,
+          "kicker": "",
+          "title": "Resident portal",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bper896tm4",
+          "type": "cards",
+          "source": "",
+          "hidden": false,
+          "kicker": "",
+          "title": "How do I...",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "card",
+              "media": "",
+              "title": "Pay rent",
+              "text": "Pay online in the portal, by bank transfer to the account on your lease, or by check at the office. Rent is due on the 1st.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "wrench",
+              "media": "",
+              "title": "Report a repair",
+              "text": "Send a request with photos from the resident portal and follow the repair there. For a burst pipe, no heat or a lockout, call the main number and choose option 1.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "doc",
+              "media": "",
+              "title": "Give notice",
+              "text": "Tell us in writing 60 days before you move out. We confirm the move-out date and book the inspection.",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "bce8jv8aat",
+          "type": "faq",
+          "source": "",
+          "hidden": false,
+          "kicker": "",
+          "title": "Resident questions",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "",
+              "title": "I did not get an activation code",
+              "text": "Ask the office. We send a new code to the email on your lease.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "When is rent late?",
+              "text": "Rent is due on the 1st. A $75 late fee is added if rent is still owed after the 5th.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Can I have a pet?",
+              "text": "Ask the office first. Most properties welcome pets with a pet deposit.",
+              "link": "",
+              "label": ""
+            }
+          ]
+        }
+      ],
+      "versions": [],
+      "saved": "2026-10-22T13:20:00Z",
+      "by": "u-editor"
+    },
+    "policies": {
+      "blocks": [
+        {
+          "id": "b2tuvrv3qr",
+          "type": "text",
+          "source": "",
+          "hidden": false,
+          "kicker": "Policies",
+          "title": "Our policies, in plain words",
+          "text": "<p>These are the rules every application and lease follows. If something is unclear, ask us before you apply.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bjwgnbz9v8",
+          "type": "faq",
+          "source": "",
+          "hidden": false,
+          "kicker": "",
+          "title": "Applications",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "",
+              "title": "Who must apply",
+              "text": "Everyone aged 18 or over who will live in the home fills in the application and is named on the lease.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Screening",
+              "text": "We check identity, income, rental history and references, and run a credit and background check with your consent. We follow fair housing law and treat every applicant the same way.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Income",
+              "text": "We look for a household income of about three times the monthly rent. A guarantor can make up the difference.",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "bsv23pq4dr",
+          "type": "faq",
+          "source": "",
+          "hidden": false,
+          "kicker": "",
+          "title": "Leases and rent",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "",
+              "title": "Rent",
+              "text": "Rent is due on the 1st of each month. A $75 late fee is added if rent is still owed after the 5th.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Deposit",
+              "text": "The security deposit equals one month of rent unless the listing says otherwise. It is held safely and returned with an itemized statement after you move out.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Renewals",
+              "text": "We offer a renewal 90 days before your lease ends. If you plan to move, give 60 days written notice.",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "brd4wtgdwr",
+          "type": "faq",
+          "source": "",
+          "hidden": false,
+          "kicker": "",
+          "title": "Living here",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "",
+              "title": "Pets",
+              "text": "Each listing says which pets are allowed. A pet deposit applies.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Smoking",
+              "text": "All our homes are non-smoking, inside and on balconies.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Repairs and entry",
+              "text": "Report repairs right away. We give 24 hours notice before entering, except in an emergency.",
+              "link": "",
+              "label": ""
+            }
+          ]
+        }
+      ],
+      "versions": [],
+      "saved": "2026-10-22T13:20:00Z",
+      "by": "u-editor"
+    },
+    "contact": {
+      "blocks": [
+        {
+          "id": "b95jdvwc4q",
+          "type": "data",
+          "source": "contactform",
+          "hidden": false,
+          "kicker": "Contact",
+          "title": "Talk to our office",
+          "text": "<p>Call for anything urgent. For everything else, send a message and we answer within one working day.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        }
+      ],
+      "versions": [],
+      "saved": "2026-10-22T13:20:00Z",
+      "by": "u-editor"
+    }
+  }
+}

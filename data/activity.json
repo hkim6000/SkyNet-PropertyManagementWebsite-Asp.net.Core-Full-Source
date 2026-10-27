@@ -1,0 +1,212 @@
+[
+  {
+    "when": "2026-10-27T19:43:52.2653651Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T19:19:31.0798202Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T18:56:57.8693317Z",
+    "userId": "resident",
+    "action": "portal sign in",
+    "target": "caleb.chavez@example.com",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T18:56:28.0291242Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T18:47:33.2023106Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T18:42:06.8460322Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T18:35:51.0230721Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T18:27:03.4360097Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T18:20:34.3733279Z",
+    "userId": "u-owner",
+    "action": "change ownership",
+    "target": "Elm Court Apartments · Oct 27, 2026 · Gregory Hale 100%",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T18:20:04.6726445Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T18:06:05.0085869Z",
+    "userId": "u-owner",
+    "action": "change ownership",
+    "target": "Elm Court Apartments · Oct 27, 2026 · Andrea Wolfe 30%, Gregory Hale 70%",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T18:03:18.6948041Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T17:37:20.8465932Z",
+    "userId": "u-owner",
+    "action": "remove payout",
+    "target": "Daniel and Ellen Cho · $12,688.26",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T17:36:38.0883915Z",
+    "userId": "u-owner",
+    "action": "owner payout",
+    "target": "Daniel and Ellen Cho · September 2026 · $12,688.26",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T17:21:23.7076275Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T16:58:27.8614258Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T16:47:00.0689784Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T16:37:18.1158983Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T15:57:49.2915101Z",
+    "userId": "visitor",
+    "action": "tour request",
+    "target": "Cedar Row Townhomes · CR-4 · Thu, Nov 5, 10:00 AM",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T15:54:10.2853835Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T15:53:57.2978587Z",
+    "userId": "resident",
+    "action": "portal sign in",
+    "target": "caleb.chavez@example.com",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T15:31:42.2385682Z",
+    "userId": "visitor",
+    "action": "contact message",
+    "target": "Kool",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T15:30:56.9220979Z",
+    "userId": "visitor",
+    "action": "application",
+    "target": "APP-AQMDU9 · Cedar Row Townhomes · CR-4",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T15:27:48.8325791Z",
+    "userId": "visitor",
+    "action": "tour request",
+    "target": "Cedar Row Townhomes · CR-4 · Thu, Oct 29, 10:00 AM",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T15:25:20.2012867Z",
+    "userId": "system",
+    "action": "post rent and late fees",
+    "target": "41 charges",
+    "ok": true
+  },
+  {
+    "when": "2026-10-27T15:25:19.2176429Z",
+    "userId": "u-owner",
+    "action": "sign in",
+    "target": "Hannah Price",
+    "ok": true
+  },
+  {
+    "when": "2026-10-22T19:02:00",
+    "userId": "u-leasing",
+    "action": "confirm showing",
+    "target": "Riverside Lofts · 402",
+    "ok": true
+  },
+  {
+    "when": "2026-10-21T15:00:00",
+    "userId": "u-manager",
+    "action": "post notice",
+    "target": "Water shut-off on Tuesday",
+    "ok": true
+  },
+  {
+    "when": "2026-10-20T14:00:00",
+    "userId": "u-leasing",
+    "action": "review application",
+    "target": "APP-ZD2NZP",
+    "ok": true
+  },
+  {
+    "when": "2026-10-06T00:05:00",
+    "userId": "system",
+    "action": "post rent and late fees",
+    "target": "1 charge",
+    "ok": true
+  }
+]

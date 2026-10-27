@@ -1,0 +1,39 @@
+[
+  {
+    "id": "n-znmqhgpx",
+    "title": "Water shut-off on Tuesday",
+    "text": "The water at Elm Court will be off on Tuesday from 9 am to noon while the plumbers replace a main valve. Please fill a jug the night before.",
+    "properties": [
+      "p-elm"
+    ],
+    "pinned": true,
+    "from": "2026-10-26T00:00:00",
+    "until": "2026-11-02T00:00:00",
+    "created": "2026-10-26T09:00:00",
+    "by": "u-manager"
+  },
+  {
+    "id": "n-gnbgk37z",
+    "title": "Pest control visit",
+    "text": "Our pest control partner visits Riverside Lofts on the first Monday of the month. No need to be home; the technician treats common areas and units that asked for it.",
+    "properties": [
+      "p-river"
+    ],
+    "pinned": false,
+    "from": "2026-10-22T00:00:00",
+    "until": "2026-11-08T00:00:00",
+    "created": "2026-10-22T10:00:00",
+    "by": "u-manager"
+  },
+  {
+    "id": "n-ijryk8sf",
+    "title": "Office hours over the holidays",
+    "text": "The office closes at 1 pm on November 26 and stays closed on November 27. For emergencies, call the main number and choose option 1.",
+    "properties": [],
+    "pinned": false,
+    "from": "2026-10-25T00:00:00",
+    "until": "2026-12-06T00:00:00",
+    "created": "2026-10-25T11:00:00",
+    "by": "u-owner"
+  }
+]

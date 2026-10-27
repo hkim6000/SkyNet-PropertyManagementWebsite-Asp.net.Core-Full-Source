@@ -1,0 +1,85 @@
+[
+  {
+    "id": "ps-leasing",
+    "name": "Leasing agent",
+    "note": "Show units, take applications and sign leases.",
+    "perms": {
+      "properties": "V",
+      "units": "VE",
+      "showings": "VAED",
+      "applications": "VAE",
+      "leases": "VAE",
+      "residents": "VAE",
+      "messages": "VE",
+      "workorders": "VA",
+      "payments": "V"
+    }
+  },
+  {
+    "id": "ps-manager",
+    "name": "Property manager",
+    "note": "Runs their properties day to day.",
+    "perms": {
+      "properties": "VE",
+      "units": "VAE",
+      "showings": "VAE",
+      "applications": "VAE",
+      "leases": "VAE",
+      "residents": "VAE",
+      "notices": "VAE",
+      "messages": "VE",
+      "workorders": "VAE",
+      "turns": "VE",
+      "inspections": "VAE",
+      "vendors": "V",
+      "payments": "VA",
+      "expenses": "VA",
+      "reports": "V"
+    }
+  },
+  {
+    "id": "ps-accounts",
+    "name": "Accountant",
+    "note": "Rent, payments, expenses, owner statements and reports.",
+    "perms": {
+      "properties": "V",
+      "units": "V",
+      "leases": "V",
+      "residents": "V",
+      "activity": "V",
+      "workorders": "V",
+      "vendors": "V",
+      "payments": "VAED",
+      "expenses": "VAED",
+      "owners": "VAE",
+      "reports": "V",
+      "ownership": "V",
+      "payouts": "VAD"
+    }
+  },
+  {
+    "id": "ps-web",
+    "name": "Website editor",
+    "note": "Edits pages, photos and notices.",
+    "perms": {
+      "pages": "VE",
+      "media": "VAED",
+      "notices": "VAE",
+      "messages": "VED",
+      "properties": "V"
+    }
+  },
+  {
+    "id": "ps-maint",
+    "name": "Maintenance technician",
+    "note": "Work orders, make-ready and inspections.",
+    "perms": {
+      "properties": "V",
+      "units": "V",
+      "workorders": "VE",
+      "turns": "VE",
+      "inspections": "VAE",
+      "vendors": "V"
+    }
+  }
+]

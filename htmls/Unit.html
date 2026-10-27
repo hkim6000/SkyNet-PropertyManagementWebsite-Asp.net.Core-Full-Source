@@ -1,0 +1,28 @@
+<div class="un-site" data-page="Unit">
+{plhd_head}
+<main class="un-main" id="un-main">{plhd_main}</main>
+{plhd_foot}
+<div class="un-pop" id="un-pop" aria-hidden="true">
+    <div class="un-popbox" role="dialog" aria-modal="true" aria-labelledby="un-pop-t" aria-describedby="un-pop-m">
+        <div class="un-popic" aria-hidden="true"><svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
+        <h2 id="un-pop-t"></h2>
+        <div class="un-popmsg" id="un-pop-m"></div>
+        <button type="button" class="un-btn un-wide" id="un-pop-ok" onclick="UnitJs.popClose()">OK</button>
+    </div>
+</div>
+<div class="un-view" id="un-view" aria-hidden="true">
+    <div class="un-viewbox" role="dialog" aria-modal="true" aria-labelledby="un-view-t">
+        <div class="un-viewbar"><span id="un-view-t"></span><button type="button" class="un-viewx" id="un-view-x" aria-label="Close" onclick="UnitJs.viewClose()"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+        <img id="un-view-img" src="data:," alt="">
+    </div>
+</div>
+<div class="un-show" id="un-show" aria-hidden="true">
+    <div class="un-showbox" id="un-showbox" role="dialog" aria-modal="true" aria-label="Slide show" tabindex="-1">
+        <div class="un-showbar"><span class="un-shown" id="un-show-n"></span><span class="un-showt" id="un-show-t"></span><button type="button" class="un-showbtn un-showpp" id="un-show-pp" aria-label="Pause the slide show" onclick="UnitJs.showPlay()"></button><button type="button" class="un-showbtn" id="un-show-x" aria-label="Close the slide show" onclick="UnitJs.showClose()"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+        <div class="un-showstage" id="un-show-stage"></div>
+        <button type="button" class="un-shownav un-showprev" aria-label="Previous" onclick="UnitJs.showGo(-1)"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button>
+        <button type="button" class="un-shownav un-shownext" aria-label="Next" onclick="UnitJs.showGo(1)"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button>
+    </div>
+</div>
+<div class="un-toast" id="un-toast" role="status" aria-live="polite"></div>
+</div>

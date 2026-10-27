@@ -1,0 +1,74 @@
+[
+  {
+    "id": "p-tchncv8mbf",
+    "leaseId": "l-hf6d8te2",
+    "residentId": "r-uwvuq4rc",
+    "amount": 1450,
+    "status": "Paid",
+    "session": "cs_live_a1ecIEtbtcnupTtLsHckCNoXlkgjWKacJYzoxpwxF2",
+    "ledgerId": "g-4w2qih4jy",
+    "source": "stripe",
+    "created": "2026-10-02T10:00:00",
+    "paid": "2026-10-02T10:00:00"
+  },
+  {
+    "id": "p-icg29kt4we",
+    "leaseId": "l-vzhq8th9",
+    "residentId": "r-24ekb7tf",
+    "amount": 1150,
+    "status": "Paid",
+    "session": "cs_live_a1Hdrj1bJIbuglMr3GQzBC1iO1wSTnau3V5ImbWVwV",
+    "ledgerId": "g-wj86twtvk",
+    "source": "stripe",
+    "created": "2026-09-01T10:00:00",
+    "paid": "2026-09-01T10:00:00"
+  },
+  {
+    "id": "p-vmqp8fge4t",
+    "leaseId": "l-ygtkp99a",
+    "residentId": "r-cgk3zt85",
+    "amount": 1450,
+    "status": "Paid",
+    "session": "cs_live_a1pFd1inXdMG10zIThRVt4skwJCn4dEX46oswFABO6",
+    "ledgerId": "g-jjvfqa8xv",
+    "source": "stripe",
+    "created": "2026-09-02T10:00:00",
+    "paid": "2026-09-02T10:00:00"
+  },
+  {
+    "id": "p-ev5ux4azd2",
+    "leaseId": "l-w6xhpcf6",
+    "residentId": "r-gkjs2i6z",
+    "amount": 1175,
+    "status": "Paid",
+    "session": "cs_live_a1mJq86rbyJI34rCLVo9wy99bUDNk8JzKi13S2cAdX",
+    "ledgerId": "g-27u676mps",
+    "source": "stripe",
+    "created": "2026-09-01T10:00:00",
+    "paid": "2026-09-01T10:00:00"
+  },
+  {
+    "id": "p-fc8j3xtsyp",
+    "leaseId": "l-i2he9gi5",
+    "residentId": "r-7cg3u5wh",
+    "amount": 1475,
+    "status": "Paid",
+    "session": "cs_live_a1dM9UgaNmYjC2ia6zeVR5Fx4GwY7AMHlD1U1FEti1",
+    "ledgerId": "g-vecyfbpj9",
+    "source": "stripe",
+    "created": "2026-10-04T10:00:00",
+    "paid": "2026-10-04T10:00:00"
+  },
+  {
+    "id": "p-b4ku2yfjct",
+    "leaseId": "l-czw8egtw",
+    "residentId": "r-hua38egf",
+    "amount": 1200,
+    "status": "Paid",
+    "session": "cs_live_a1QMZOjQl10zwQs6ne5dZaldiyXXyKZZ52Cafqmtc9",
+    "ledgerId": "g-9vh2jan6z",
+    "source": "stripe",
+    "created": "2026-09-05T10:00:00",
+    "paid": "2026-09-05T10:00:00"
+  }
+]

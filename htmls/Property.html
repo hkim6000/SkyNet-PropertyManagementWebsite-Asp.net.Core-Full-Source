@@ -1,0 +1,14 @@
+<div class="pd-site" data-page="Property">
+{plhd_head}
+<main class="pd-main" id="pd-main">{plhd_main}</main>
+{plhd_foot}
+<div class="pd-show" id="pd-show" aria-hidden="true">
+    <div class="pd-showbox" id="pd-showbox" role="dialog" aria-modal="true" aria-label="Slide show" tabindex="-1">
+        <div class="pd-showbar"><span class="pd-shown" id="pd-show-n"></span><span class="pd-showt" id="pd-show-t"></span><button type="button" class="pd-showbtn pd-showpp" id="pd-show-pp" aria-label="Pause the slide show" onclick="PropertyJs.showPlay()"></button><button type="button" class="pd-showbtn" id="pd-show-x" aria-label="Close the slide show" onclick="PropertyJs.showClose()"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+        <div class="pd-showstage" id="pd-show-stage"></div>
+        <button type="button" class="pd-shownav pd-showprev" aria-label="Previous" onclick="PropertyJs.showGo(-1)"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button>
+        <button type="button" class="pd-shownav pd-shownext" aria-label="Next" onclick="PropertyJs.showGo(1)"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button>
+    </div>
+</div>
+<div class="pd-toast" id="pd-toast" role="status" aria-live="polite"></div>
+</div>

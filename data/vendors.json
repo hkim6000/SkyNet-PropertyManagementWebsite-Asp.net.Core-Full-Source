@@ -1,0 +1,98 @@
+[
+  {
+    "id": "v-pinecrest",
+    "name": "Pinecrest Plumbing",
+    "trade": "Plumbing",
+    "contact": "Ray Dorsey",
+    "phone": "(919) 555-7101",
+    "email": "jobs@pinecrestplumbing.example",
+    "rate": 95,
+    "insuredUntil": "2027-06-24T00:00:00",
+    "active": true,
+    "note": "24-hour emergency line."
+  },
+  {
+    "id": "v-brightline",
+    "name": "Brightline Electric",
+    "trade": "Electrical",
+    "contact": "Tasha Nguyen",
+    "phone": "(919) 555-7114",
+    "email": "office@brightline.example",
+    "rate": 105,
+    "insuredUntil": "2027-03-26T00:00:00",
+    "active": true,
+    "note": ""
+  },
+  {
+    "id": "v-comfortair",
+    "name": "Comfort Air Heating and Cooling",
+    "trade": "Heating and cooling",
+    "contact": "Luis Ortega",
+    "phone": "(919) 555-7128",
+    "email": "service@comfortair.example",
+    "rate": 110,
+    "insuredUntil": "2026-11-16T00:00:00",
+    "active": true,
+    "note": "Furnace checks every October."
+  },
+  {
+    "id": "v-freshstart",
+    "name": "Fresh Start Cleaning",
+    "trade": "Cleaning",
+    "contact": "Dana White",
+    "phone": "(919) 555-7133",
+    "email": "book@freshstart.example",
+    "rate": 45,
+    "insuredUntil": "2027-08-23T00:00:00",
+    "active": true,
+    "note": "Move-out deep clean is a flat $240 for two bedrooms."
+  },
+  {
+    "id": "v-ridge",
+    "name": "Ridge Painting Co.",
+    "trade": "Painting",
+    "contact": "Owen Pratt",
+    "phone": "(919) 555-7147",
+    "email": "owen@ridgepainting.example",
+    "rate": 60,
+    "insuredUntil": "2026-10-15T00:00:00",
+    "active": true,
+    "note": "Insurance certificate requested again."
+  },
+  {
+    "id": "v-safeguard",
+    "name": "Safeguard Locksmith",
+    "trade": "Locksmith",
+    "contact": "Mia Torres",
+    "phone": "(919) 555-7152",
+    "email": "keys@safeguard.example",
+    "rate": 75,
+    "insuredUntil": "2027-12-01T00:00:00",
+    "active": true,
+    "note": ""
+  },
+  {
+    "id": "v-northfield",
+    "name": "Northfield Pest Control",
+    "trade": "Pest control",
+    "contact": "Brett Kim",
+    "phone": "(919) 555-7166",
+    "email": "help@northfieldpest.example",
+    "rate": 85,
+    "insuredUntil": "2027-04-25T00:00:00",
+    "active": true,
+    "note": "Monthly visit at Riverside Lofts."
+  },
+  {
+    "id": "v-ace",
+    "name": "Ace Appliance Repair",
+    "trade": "Appliance",
+    "contact": "Gil Barnes",
+    "phone": "(919) 555-7179",
+    "email": "",
+    "rate": 90,
+    "insuredUntil": null,
+    "active": false,
+    "note": "No longer used."
+  }
+]

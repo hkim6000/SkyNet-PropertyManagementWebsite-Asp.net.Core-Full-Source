@@ -1,0 +1,62 @@
+[
+  {
+    "id": "m-p6rwpjds",
+    "name": "Gloria Benton",
+    "email": "gloria.benton@example.com",
+    "phone": "(919) 555-6120",
+    "topic": "Owner inquiry",
+    "area": "",
+    "code": "",
+    "text": "I own a duplex on Ridge Road and I am tired of managing it myself. What do you charge, and do you handle repairs?",
+    "when": "2026-10-26T14:20:00",
+    "status": "New"
+  },
+  {
+    "id": "m-j6hfzkqj",
+    "name": "Kevin Sharpe",
+    "email": "kevin.sharpe@example.com",
+    "phone": "",
+    "topic": "General",
+    "area": "p-river",
+    "code": "402",
+    "text": "Is the two bedroom on the fourth floor still available for December 1? Can I bring a large dog?",
+    "when": "2026-10-26T09:05:00",
+    "status": "New"
+  },
+  {
+    "id": "m-f9bq3vsv",
+    "name": "Laura Pine",
+    "email": "laura.pine@example.com",
+    "phone": "(919) 555-6188",
+    "topic": "General",
+    "area": "p-cedar",
+    "code": "",
+    "text": "Do the townhomes have a garage I could use as a workshop?",
+    "when": "2026-10-24T16:40:00",
+    "status": "Read"
+  },
+  {
+    "id": "m-u5jrugrq",
+    "name": "Omar Haddad",
+    "email": "omar.haddad@example.com",
+    "phone": "",
+    "topic": "Owner inquiry",
+    "area": "",
+    "code": "",
+    "text": "We are moving abroad for two years and want to rent out our house on Birch Lane. Could someone call me?",
+    "when": "2026-10-21T11:00:00",
+    "status": "Replied"
+  },
+  {
+    "id": "m-a801045a02",
+    "name": "Kool",
+    "email": "Kool@email.com",
+    "phone": "",
+    "topic": "General",
+    "area": "",
+    "code": "",
+    "text": "tour one more time",
+    "when": "2026-10-27T15:31:42.222142Z",
+    "status": "New"
+  }
+]

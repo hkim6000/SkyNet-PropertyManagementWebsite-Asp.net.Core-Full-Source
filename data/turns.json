@@ -1,0 +1,57 @@
+[
+  {
+    "id": "t-rq4cgtms",
+    "unitId": "u-tkje7he5",
+    "leaseId": "l-ygtkp99a",
+    "start": "2026-10-17T00:00:00",
+    "target": "2026-10-27T00:00:00",
+    "status": "Open",
+    "steps": [
+      {
+        "name": "Move-out inspection",
+        "done": true,
+        "doneAt": "2026-10-17T14:00:00",
+        "by": "u-tech"
+      },
+      {
+        "name": "Repairs",
+        "done": true,
+        "doneAt": "2026-10-19T14:00:00",
+        "by": "u-tech"
+      },
+      {
+        "name": "Paint",
+        "done": true,
+        "doneAt": "2026-10-21T14:00:00",
+        "by": "u-tech"
+      },
+      {
+        "name": "Deep clean",
+        "done": false,
+        "doneAt": null,
+        "by": ""
+      },
+      {
+        "name": "Carpet or floors",
+        "done": false,
+        "doneAt": null,
+        "by": ""
+      },
+      {
+        "name": "Change locks",
+        "done": false,
+        "doneAt": null,
+        "by": ""
+      },
+      {
+        "name": "Final walk-through",
+        "done": false,
+        "doneAt": null,
+        "by": ""
+      }
+    ],
+    "note": "Kitchen cabinet door replaced; carpet in the bedroom needs a professional clean.",
+    "finished": null,
+    "by": "u-manager"
+  }
+]

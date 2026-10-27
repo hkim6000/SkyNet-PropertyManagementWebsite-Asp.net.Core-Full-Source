@@ -1,0 +1,24 @@
+<div class="aa-site" data-page="AdminApplications" id="aa-site-root">
+<header class="aa-top">
+    <button type="button" class="aa-burger" aria-label="Menu" onclick="AdminApplicationsJs.openMenu()"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+    <a class="aa-logo" href="Admin"><svg viewBox="0 0 40 40" width="30" height="30" aria-hidden="true"><rect width="40" height="40" rx="9" fill="#17322A"/><path d="M9 20.5L20 11l11 9.5" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M13 18.5V30h14V18.5" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linejoin="round"/><path d="M20 21.5l2.6 2.6L20 28l-2.6-3.9z" fill="#B4472B"/></svg><span id="aa-brand">Staff</span><small>Staff</small></a>
+    <div class="aa-who" id="aa-who"></div>
+    <a class="aa-tl aa-tlv" href="Home" target="_blank" rel="noopener">View site</a>
+    <button type="button" class="aa-tl" onclick="AdminApplicationsJs.signout()">Sign out</button>
+</header>
+<div class="aa-body">
+    <nav class="aa-rail" id="aa-rail" aria-label="Staff menu">
+        <div class="aa-rail-top"><b>Menu</b><button type="button" class="aa-ibtn" aria-label="Close menu" onclick="AdminApplicationsJs.closeMenu()"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+        <div class="aa-menu" id="aa-menu"></div>
+    </nav>
+    <div class="aa-scrim" id="aa-scrim" onclick="AdminApplicationsJs.closeMenu()"></div>
+    <main class="aa-main" id="aa-main"><div class="aa-loading">Loading</div></main>
+</div>
+<div class="aa-modal" id="aa-modal" aria-hidden="true">
+    <div class="aa-mbox aa-wide" role="dialog" aria-modal="true" aria-labelledby="aa-mtitle">
+        <div class="aa-mhead"><h2 id="aa-mtitle"></h2><button type="button" class="aa-ibtn" aria-label="Close" onclick="AdminApplicationsJs.closeModal()"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+        <div class="aa-mbody" id="aa-mbody"></div>
+    </div>
+</div>
+<div class="aa-toast" id="aa-toast" role="status" aria-live="polite"></div>
+</div>

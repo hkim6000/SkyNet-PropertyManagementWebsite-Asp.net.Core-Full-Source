@@ -1,0 +1,123 @@
+[
+  {
+    "id": "p-elm",
+    "name": "Elm Court Apartments",
+    "kind": "Apartments",
+    "street": "1200 Elm Street",
+    "city": "Fernwood Springs",
+    "region": "NC",
+    "zip": "27991",
+    "phone": "(919) 555-0141",
+    "email": "elmcourt@mapleresidential.example",
+    "yearBuilt": 1968,
+    "summary": "A quiet brick building on a tree-lined street, two blocks from the Main Street shops and the Line 4 bus. Renovated kitchens and baths, laundry on every floor.",
+    "amenities": [
+      "Laundry on every floor",
+      "Secure entry",
+      "Bike storage",
+      "Courtyard garden",
+      "Off-street parking"
+    ],
+    "pets": "Cats welcome. Dogs under 30 lb with a pet deposit.",
+    "parking": "One space per unit, $40 a month.",
+    "media": "images/properties/elm-court.webp",
+    "gallery": [
+      "images/units/living-2.webp",
+      "images/units/kitchen-1.webp"
+    ],
+    "show": true,
+    "order": 1,
+    "note": ""
+  },
+  {
+    "id": "p-river",
+    "name": "Riverside Lofts",
+    "kind": "Apartments",
+    "street": "75 River Walk",
+    "city": "Fernwood Springs",
+    "region": "NC",
+    "zip": "27991",
+    "phone": "(919) 555-0152",
+    "email": "riverside@mapleresidential.example",
+    "yearBuilt": 2019,
+    "summary": "Light-filled lofts on the river path, with balconies, an elevator and a fitness room. Five minutes on foot to the train station.",
+    "amenities": [
+      "Elevator",
+      "Fitness room",
+      "Balconies",
+      "In-unit washer and dryer",
+      "Package lockers",
+      "Covered parking"
+    ],
+    "pets": "Cats and dogs welcome, two pets per unit.",
+    "parking": "Covered garage, $75 a month.",
+    "media": "images/properties/riverside-lofts.webp",
+    "gallery": [
+      "images/units/living-1.webp",
+      "images/units/kitchen-3.webp",
+      "images/site/hero-dusk.webp",
+      "images/properties/riverside-lofts-tour.mp4"
+    ],
+    "show": true,
+    "order": 2,
+    "note": ""
+  },
+  {
+    "id": "p-cedar",
+    "name": "Cedar Row Townhomes",
+    "kind": "Townhomes",
+    "street": "40 Cedar Row",
+    "city": "Fernwood Springs",
+    "region": "NC",
+    "zip": "27992",
+    "phone": "(919) 555-0163",
+    "email": "cedarrow@mapleresidential.example",
+    "yearBuilt": 2004,
+    "summary": "Two-storey townhomes with three bedrooms, a private patio and an attached garage, next to Cedar Park and the elementary school.",
+    "amenities": [
+      "Attached garage",
+      "Private patio",
+      "Washer and dryer hookups",
+      "Lawn care included"
+    ],
+    "pets": "Dogs and cats welcome with a pet deposit.",
+    "parking": "Attached one-car garage and driveway.",
+    "media": "images/properties/cedar-row.webp",
+    "gallery": [
+      "images/site/hero-autumn.webp",
+      "images/units/kitchen-2.webp"
+    ],
+    "show": true,
+    "order": 3,
+    "note": ""
+  },
+  {
+    "id": "p-birch",
+    "name": "Birch Hill Homes",
+    "kind": "Houses",
+    "street": "Birch Lane",
+    "city": "Fernwood Springs",
+    "region": "NC",
+    "zip": "27993",
+    "phone": "(919) 555-0174",
+    "email": "birchhill@mapleresidential.example",
+    "yearBuilt": 1995,
+    "summary": "Single-family houses with gardens on a quiet lane at the edge of town. Three and four bedrooms, a fenced yard and a garage.",
+    "amenities": [
+      "Fenced yard",
+      "Garage",
+      "Garden",
+      "Washer and dryer included"
+    ],
+    "pets": "Pets considered one by one.",
+    "parking": "Garage and driveway.",
+    "media": "images/properties/birch-hill.webp",
+    "gallery": [
+      "images/properties/birch-hill-garden.webp",
+      "images/units/living-3.webp"
+    ],
+    "show": true,
+    "order": 4,
+    "note": ""
+  }
+]

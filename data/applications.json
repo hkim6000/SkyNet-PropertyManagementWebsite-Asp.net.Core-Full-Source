@@ -1,0 +1,326 @@
+[
+  {
+    "id": "a-zjyhbhzz",
+    "code": "APP-LYFJDX",
+    "unitId": "u-tkje7he5",
+    "moveIn": "2026-11-10T00:00:00",
+    "months": 12,
+    "people": [
+      {
+        "first": "Priya",
+        "last": "Shah",
+        "email": "priya.shah@example.com",
+        "phone": "(919) 555-4400",
+        "birth": "1985-03-10T00:00:00",
+        "employer": "Fernwood Medical Center",
+        "income": 7400
+      }
+    ],
+    "occupants": 1,
+    "pets": "One cat",
+    "address": "100 Oak Avenue, Fernwood Springs, NC",
+    "landlord": "Grove Street Rentals",
+    "landlordPhone": "(919) 555-5200",
+    "yearsAt": 1,
+    "message": "We are moving for work and would love a quiet unit.",
+    "status": "New",
+    "decision": "",
+    "checks": [],
+    "created": "2026-10-26T10:00:00",
+    "source": "website",
+    "decidedBy": "",
+    "decidedAt": null,
+    "leaseId": ""
+  },
+  {
+    "id": "a-9kqemrim",
+    "code": "APP-WWS38P",
+    "unitId": "u-vtu59uxb",
+    "moveIn": "2026-11-13T00:00:00",
+    "months": 12,
+    "people": [
+      {
+        "first": "Marcus",
+        "last": "Ellery",
+        "email": "marcus.ellery@example.com",
+        "phone": "(919) 555-4413",
+        "birth": "1986-04-11T00:00:00",
+        "employer": "Springs Unified Schools",
+        "income": 4200
+      },
+      {
+        "first": "Alex",
+        "last": "Ellery",
+        "email": "partner.ellery@example.com",
+        "phone": "(919) 555-4501",
+        "birth": "1988-06-02T00:00:00",
+        "employer": "Fernwood Public Library",
+        "income": 3200
+      }
+    ],
+    "occupants": 2,
+    "pets": "",
+    "address": "117 Oak Avenue, Fernwood Springs, NC",
+    "landlord": "Hillside Property Group",
+    "landlordPhone": "(919) 555-5201",
+    "yearsAt": 2,
+    "message": "",
+    "status": "New",
+    "decision": "",
+    "checks": [],
+    "created": "2026-10-27T11:00:00",
+    "source": "website",
+    "decidedBy": "",
+    "decidedAt": null,
+    "leaseId": ""
+  },
+  {
+    "id": "a-ffjeq4rj",
+    "code": "APP-ZJY6L2",
+    "unitId": "u-ijay4a9f",
+    "moveIn": "2026-11-16T00:00:00",
+    "months": 12,
+    "people": [
+      {
+        "first": "Hannah",
+        "last": "Liu",
+        "email": "hannah.liu@example.com",
+        "phone": "(919) 555-4426",
+        "birth": "1987-05-12T00:00:00",
+        "employer": "Self-employed designer",
+        "income": 4200
+      }
+    ],
+    "occupants": 1,
+    "pets": "",
+    "address": "134 Oak Avenue, Fernwood Springs, NC",
+    "landlord": "Grove Street Rentals",
+    "landlordPhone": "(919) 555-5202",
+    "yearsAt": 3,
+    "message": "",
+    "status": "New",
+    "decision": "",
+    "checks": [],
+    "created": "2026-10-25T12:00:00",
+    "source": "website",
+    "decidedBy": "",
+    "decidedAt": null,
+    "leaseId": ""
+  },
+  {
+    "id": "a-8bu38r9m",
+    "code": "APP-ZD2NZP",
+    "unitId": "u-7pkrxcgi",
+    "moveIn": "2026-11-19T00:00:00",
+    "months": 12,
+    "people": [
+      {
+        "first": "Diego",
+        "last": "Navarro",
+        "email": "diego.navarro@example.com",
+        "phone": "(919) 555-4439",
+        "birth": "1988-06-13T00:00:00",
+        "employer": "Northgate Logistics",
+        "income": 4200
+      },
+      {
+        "first": "Sam",
+        "last": "Navarro",
+        "email": "partner.navarro@example.com",
+        "phone": "(919) 555-4503",
+        "birth": "1988-06-02T00:00:00",
+        "employer": "Fernwood Public Library",
+        "income": 3200
+      }
+    ],
+    "occupants": 3,
+    "pets": "",
+    "address": "151 Oak Avenue, Fernwood Springs, NC",
+    "landlord": "Hillside Property Group",
+    "landlordPhone": "(919) 555-5203",
+    "yearsAt": 4,
+    "message": "",
+    "status": "Reviewing",
+    "decision": "",
+    "checks": [
+      "Income",
+      "References"
+    ],
+    "created": "2026-10-23T13:00:00",
+    "source": "website",
+    "decidedBy": "",
+    "decidedAt": null,
+    "leaseId": ""
+  },
+  {
+    "id": "a-egp2rper",
+    "code": "APP-N2Q8ZC",
+    "unitId": "u-yd4ftmhb",
+    "moveIn": "2026-11-22T00:00:00",
+    "months": 12,
+    "people": [
+      {
+        "first": "Fatima",
+        "last": "Rahman",
+        "email": "fatima.rahman@example.com",
+        "phone": "(919) 555-4452",
+        "birth": "1989-07-14T00:00:00",
+        "employer": "Springs Unified Schools",
+        "income": 3900
+      }
+    ],
+    "occupants": 1,
+    "pets": "One cat",
+    "address": "168 Oak Avenue, Fernwood Springs, NC",
+    "landlord": "K. Morrison",
+    "landlordPhone": "(919) 555-5204",
+    "yearsAt": 1,
+    "message": "",
+    "status": "Reviewing",
+    "decision": "",
+    "checks": [
+      "Income",
+      "References"
+    ],
+    "created": "2026-10-24T14:00:00",
+    "source": "website",
+    "decidedBy": "",
+    "decidedAt": null,
+    "leaseId": ""
+  },
+  {
+    "id": "a-x7tfncxr",
+    "code": "APP-HWJ7QW",
+    "unitId": "u-4vit3mt3",
+    "moveIn": "2026-11-25T00:00:00",
+    "months": 12,
+    "people": [
+      {
+        "first": "Connor",
+        "last": "Blake",
+        "email": "connor.blake@example.com",
+        "phone": "(919) 555-4465",
+        "birth": "1990-08-15T00:00:00",
+        "employer": "Self-employed designer",
+        "income": 4200
+      }
+    ],
+    "occupants": 1,
+    "pets": "",
+    "address": "185 Oak Avenue, Fernwood Springs, NC",
+    "landlord": "Grove Street Rentals",
+    "landlordPhone": "(919) 555-5205",
+    "yearsAt": 2,
+    "message": "",
+    "status": "Leased",
+    "decision": "Income and references checked.",
+    "checks": [
+      "Income",
+      "References"
+    ],
+    "created": "2026-10-18T15:00:00",
+    "source": "website",
+    "decidedBy": "u-leasing",
+    "decidedAt": "2026-10-20T15:00:00",
+    "leaseId": "l-chx7hwv3"
+  },
+  {
+    "id": "a-betjcybz",
+    "code": "APP-LYSRXL",
+    "unitId": "u-tnhv9ats",
+    "moveIn": "2026-11-28T00:00:00",
+    "months": 12,
+    "people": [
+      {
+        "first": "Yuki",
+        "last": "Tanaka",
+        "email": "yuki.tanaka@example.com",
+        "phone": "(919) 555-4478",
+        "birth": "1991-09-16T00:00:00",
+        "employer": "Springs Unified Schools",
+        "income": 5100
+      }
+    ],
+    "occupants": 1,
+    "pets": "",
+    "address": "202 Oak Avenue, Fernwood Springs, NC",
+    "landlord": "Hillside Property Group",
+    "landlordPhone": "(919) 555-5206",
+    "yearsAt": 3,
+    "message": "",
+    "status": "Declined",
+    "decision": "Income below three times the rent.",
+    "checks": [],
+    "created": "2026-10-15T16:00:00",
+    "source": "website",
+    "decidedBy": "u-leasing",
+    "decidedAt": "2026-10-17T15:00:00",
+    "leaseId": ""
+  },
+  {
+    "id": "a-aspvryhk",
+    "code": "APP-C2HFKF",
+    "unitId": "u-4nncpeba",
+    "moveIn": "2026-12-01T00:00:00",
+    "months": 12,
+    "people": [
+      {
+        "first": "Andre",
+        "last": "Wells",
+        "email": "andre.wells@example.com",
+        "phone": "(919) 555-4491",
+        "birth": "1992-10-17T00:00:00",
+        "employer": "Fernwood Medical Center",
+        "income": 6300
+      }
+    ],
+    "occupants": 1,
+    "pets": "",
+    "address": "219 Oak Avenue, Fernwood Springs, NC",
+    "landlord": "Grove Street Rentals",
+    "landlordPhone": "(919) 555-5207",
+    "yearsAt": 4,
+    "message": "",
+    "status": "Withdrawn",
+    "decision": "",
+    "checks": [],
+    "created": "2026-10-12T17:00:00",
+    "source": "website",
+    "decidedBy": "",
+    "decidedAt": null,
+    "leaseId": ""
+  },
+  {
+    "id": "a-6692b4bf3f",
+    "code": "APP-AQMDU9",
+    "unitId": "u-tnhv9ats",
+    "moveIn": "2026-11-11T00:00:00",
+    "months": 12,
+    "people": [
+      {
+        "first": "Kool",
+        "last": "Kim",
+        "email": "kool@email.com",
+        "phone": "123-456-7890",
+        "birth": "1980-06-14T00:00:00",
+        "employer": "UUU",
+        "income": 6000
+      }
+    ],
+    "occupants": 1,
+    "pets": "",
+    "address": "1333 queen road",
+    "landlord": "",
+    "landlordPhone": "",
+    "yearsAt": 0,
+    "message": "",
+    "status": "New",
+    "decision": "",
+    "checks": [],
+    "created": "2026-10-27T11:30:56.9039786-04:00",
+    "source": "website",
+    "decidedBy": "",
+    "decidedAt": null,
+    "leaseId": ""
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "d-d2ey3x235",
+    "leaseId": "l-ihxtddkd",
+    "held": 1450,
+    "owed": 0,
+    "lines": [
+      {
+        "label": "Carpet cleaning in the living room",
+        "amount": 145.0
+      },
+      {
+        "label": "Two missing window screens",
+        "amount": 60.0
+      }
+    ],
+    "refund": 1245.0,
+    "status": "Final",
+    "method": "Check",
+    "reference": "2100",
+    "note": "",
+    "created": "2025-08-11T10:00:00",
+    "finished": "2025-08-11T10:00:00",
+    "by": "u-manager"
+  },
+  {
+    "id": "d-uzwvsnxdb",
+    "leaseId": "l-wahqs498",
+    "held": 1150,
+    "owed": 0,
+    "lines": [],
+    "refund": 1150,
+    "status": "Final",
+    "method": "Check",
+    "reference": "2107",
+    "note": "Thank you for leaving the home in good order.",
+    "created": "2025-08-11T10:00:00",
+    "finished": "2025-08-11T10:00:00",
+    "by": "u-manager"
+  },
+  {
+    "id": "d-wic9gsjuk",
+    "leaseId": "l-tmfv6h8j",
+    "held": 1150,
+    "owed": 0,
+    "lines": [],
+    "refund": 1150,
+    "status": "Final",
+    "method": "Check",
+    "reference": "2114",
+    "note": "",
+    "created": "2025-08-11T10:00:00",
+    "finished": "2025-08-11T10:00:00",
+    "by": "u-manager"
+  }
+]

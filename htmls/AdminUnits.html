@@ -1,0 +1,35 @@
+<div class="uu-site" data-page="AdminUnits" id="uu-site-root">
+<header class="uu-top">
+    <button type="button" class="uu-burger" aria-label="Menu" onclick="AdminUnitsJs.openMenu()"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+    <a class="uu-logo" href="Admin"><svg viewBox="0 0 40 40" width="30" height="30" aria-hidden="true"><rect width="40" height="40" rx="9" fill="#17322A"/><path d="M9 20.5L20 11l11 9.5" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M13 18.5V30h14V18.5" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linejoin="round"/><path d="M20 21.5l2.6 2.6L20 28l-2.6-3.9z" fill="#B4472B"/></svg><span id="uu-brand">Staff</span><small>Staff</small></a>
+    <div class="uu-who" id="uu-who"></div>
+    <a class="uu-tl uu-tlv" href="Home" target="_blank" rel="noopener">View site</a>
+    <button type="button" class="uu-tl" onclick="AdminUnitsJs.signout()">Sign out</button>
+</header>
+<div class="uu-body">
+    <nav class="uu-rail" id="uu-rail" aria-label="Staff menu">
+        <div class="uu-rail-top"><b>Menu</b><button type="button" class="uu-ibtn" aria-label="Close menu" onclick="AdminUnitsJs.closeMenu()"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+        <div class="uu-menu" id="uu-menu"></div>
+    </nav>
+    <div class="uu-scrim" id="uu-scrim" onclick="AdminUnitsJs.closeMenu()"></div>
+    <main class="uu-main" id="uu-main"><div class="uu-loading">Loading</div></main>
+</div>
+<div class="uu-modal" id="uu-modal" aria-hidden="true">
+    <div class="uu-mbox" role="dialog" aria-modal="true" aria-labelledby="uu-mtitle">
+        <div class="uu-mhead"><h2 id="uu-mtitle"></h2><button type="button" class="uu-ibtn" aria-label="Close" onclick="AdminUnitsJs.closeModal()"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+        <div class="uu-mbody" id="uu-mbody"></div>
+    </div>
+</div>
+<div class="uu-pk" id="uu-pk" aria-hidden="true">
+    <div class="uu-mbox uu-pkbox" role="dialog" aria-modal="true" aria-labelledby="uu-pkt">
+        <div class="uu-mhead"><h2 id="uu-pkt">Choose from the media library</h2><button type="button" class="uu-ibtn" aria-label="Close" onclick="AdminUnitsJs.pkClose()"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+        <div class="uu-mbody">
+            <div class="uu-pkbar"><input type="search" id="uu-pkq" placeholder="Search by name or description" maxlength="40" oninput="AdminUnitsJs.pkSearch()" aria-label="Search media"><label class="uu-btn uu-btn-ghost uu-btn-sm uu-upbtn"><input type="file" id="uu-pkfile" accept="image/jpeg,image/png,image/webp,image/gif" onchange="AdminUnitsJs.pkUpload()">Upload new</label></div>
+            <div class="uu-chips uu-pkkinds" id="uu-pkkinds" hidden><button type="button" class="uu-chip uu-act" data-pk="all" aria-pressed="true" onclick="AdminUnitsJs.pkKindSet('all')">All</button><button type="button" class="uu-chip" data-pk="photo" aria-pressed="false" onclick="AdminUnitsJs.pkKindSet('photo')">Photos</button><button type="button" class="uu-chip" data-pk="video" aria-pressed="false" onclick="AdminUnitsJs.pkKindSet('video')">Videos</button></div>
+            <p class="uu-upmsg" id="uu-pkmsg" role="status"></p>
+            <div class="uu-pkgrid" id="uu-pkgrid"></div>
+        </div>
+    </div>
+</div>
+<div class="uu-toast" id="uu-toast" role="status" aria-live="polite"></div>
+</div>

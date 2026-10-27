@@ -1,0 +1,1277 @@
+[
+  {
+    "id": "i-5cxewygq",
+    "unitId": "u-tkje7he5",
+    "leaseId": "l-ygtkp99a",
+    "kind": "Move-out",
+    "date": "2026-10-17T10:00:00",
+    "status": "Done",
+    "inspector": "u-tech",
+    "rooms": [
+      {
+        "room": "Entry and living",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "Fair",
+            "note": "Nail holes from pictures."
+          },
+          {
+            "name": "Floors",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Smoke alarm",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Kitchen",
+        "items": [
+          {
+            "name": "Cabinets and counters",
+            "condition": "Damaged",
+            "note": "Cabinet door under the sink is broken off."
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Stove and oven",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Fridge",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Dishwasher",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bedroom 1",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Closet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bedroom 2",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Closet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bathroom 1",
+        "items": [
+          {
+            "name": "Toilet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Tub or shower",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Fan",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bathroom 2",
+        "items": [
+          {
+            "name": "Toilet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Tub or shower",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Fan",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Whole home",
+        "items": [
+          {
+            "name": "Doors and locks",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Heating and cooling",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Water heater",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Keys returned",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "summary": "Normal wear except the broken cabinet door and the bedroom carpet stain.",
+    "finished": "2026-10-17T11:30:00",
+    "created": "2026-10-16T09:00:00",
+    "by": "u-manager"
+  },
+  {
+    "id": "i-zt353sa3",
+    "unitId": "u-4vit3mt3",
+    "leaseId": "l-chx7hwv3",
+    "kind": "Move-in",
+    "date": "2026-11-01T10:00:00",
+    "status": "Scheduled",
+    "inspector": "u-tech",
+    "rooms": [
+      {
+        "room": "Entry and living",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Smoke alarm",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Kitchen",
+        "items": [
+          {
+            "name": "Cabinets and counters",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Stove and oven",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Fridge",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Dishwasher",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bedroom 1",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Closet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bedroom 2",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Closet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bathroom 1",
+        "items": [
+          {
+            "name": "Toilet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Tub or shower",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Fan",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bathroom 2",
+        "items": [
+          {
+            "name": "Toilet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Tub or shower",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Fan",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Whole home",
+        "items": [
+          {
+            "name": "Doors and locks",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Heating and cooling",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Water heater",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Keys returned",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "summary": "",
+    "finished": null,
+    "created": "2026-10-20T09:00:00",
+    "by": "u-manager"
+  },
+  {
+    "id": "i-fi8abhwm",
+    "unitId": "u-uckc73ci",
+    "leaseId": "l-wiun8av5",
+    "kind": "Routine",
+    "date": "2026-10-26T10:00:00",
+    "status": "Scheduled",
+    "inspector": "u-tech",
+    "rooms": [
+      {
+        "room": "Entry and living",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Smoke alarm",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Kitchen",
+        "items": [
+          {
+            "name": "Cabinets and counters",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Stove and oven",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Fridge",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Dishwasher",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bedroom 1",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Closet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bedroom 2",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Closet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bedroom 3",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Closet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bathroom 1",
+        "items": [
+          {
+            "name": "Toilet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Tub or shower",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Fan",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bathroom 2",
+        "items": [
+          {
+            "name": "Toilet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Tub or shower",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Fan",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bathroom 3",
+        "items": [
+          {
+            "name": "Toilet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Tub or shower",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Fan",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Whole home",
+        "items": [
+          {
+            "name": "Doors and locks",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Heating and cooling",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Water heater",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Keys returned",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "summary": "",
+    "finished": null,
+    "created": "2026-10-21T09:00:00",
+    "by": "u-manager"
+  },
+  {
+    "id": "i-xwvg4hib",
+    "unitId": "u-mzcb4w8f",
+    "leaseId": "l-crqxkabn",
+    "kind": "Routine",
+    "date": "2026-10-27T11:00:00",
+    "status": "Scheduled",
+    "inspector": "u-tech",
+    "rooms": [
+      {
+        "room": "Entry and living",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Smoke alarm",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Kitchen",
+        "items": [
+          {
+            "name": "Cabinets and counters",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Stove and oven",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Fridge",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Dishwasher",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bedroom 1",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Closet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bedroom 2",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Closet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bedroom 3",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Closet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bedroom 4",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Closet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bathroom 1",
+        "items": [
+          {
+            "name": "Toilet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Tub or shower",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Fan",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bathroom 2",
+        "items": [
+          {
+            "name": "Toilet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Tub or shower",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Fan",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bathroom 3",
+        "items": [
+          {
+            "name": "Toilet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Tub or shower",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Fan",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Whole home",
+        "items": [
+          {
+            "name": "Doors and locks",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Heating and cooling",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Water heater",
+            "condition": "",
+            "note": ""
+          },
+          {
+            "name": "Keys returned",
+            "condition": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "summary": "",
+    "finished": null,
+    "created": "2026-10-21T09:00:00",
+    "by": "u-manager"
+  },
+  {
+    "id": "i-hkmi6ijm",
+    "unitId": "u-8jvhbpny",
+    "leaseId": "l-s7dp4zzn",
+    "kind": "Annual",
+    "date": "2026-09-23T14:00:00",
+    "status": "Done",
+    "inspector": "u-manager",
+    "rooms": [
+      {
+        "room": "Entry and living",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Smoke alarm",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Kitchen",
+        "items": [
+          {
+            "name": "Cabinets and counters",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Stove and oven",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Fridge",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Dishwasher",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bedroom 1",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Closet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bedroom 2",
+        "items": [
+          {
+            "name": "Walls and paint",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Windows and blinds",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Closet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Lights and outlets",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bathroom 1",
+        "items": [
+          {
+            "name": "Toilet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Tub or shower",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Fan",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Bathroom 2",
+        "items": [
+          {
+            "name": "Toilet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Sink and faucet",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Tub or shower",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Fan",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Floors",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "room": "Whole home",
+        "items": [
+          {
+            "name": "Doors and locks",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Heating and cooling",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Water heater",
+            "condition": "Good",
+            "note": ""
+          },
+          {
+            "name": "Keys returned",
+            "condition": "Good",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "summary": "Home is well kept. Smoke alarm tested.",
+    "finished": "2026-09-23T15:00:00",
+    "created": "2026-09-18T09:00:00",
+    "by": "u-manager"
+  }
+]
